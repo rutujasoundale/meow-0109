@@ -52,9 +52,9 @@ Git | GitHub | VS Code | IntelliJ IDEA
 
 
 ### CORE CONCEPTS
----
-OOPS|CORE JAVA|Database Connectivity|API Integration|Springboot(basics)|AWS(basics)
 
+    OOPS|CORE JAVA|Database Connectivity|API Integration|Springboot(basics)|AWS(basics)
+---
 
 # 📂 Featured Project
 
