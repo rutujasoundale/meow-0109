@@ -51,10 +51,10 @@ I am currently exploring AI applications, computer vision, and software developm
 Git | GitHub | VS Code | IntelliJ IDEA
 
 
-### CORE CONCEPTS
+   ### CORE CONCEPTS
 
-    OOPS|CORE JAVA|Database Connectivity|API Integration|Springboot(basics)|AWS(basics)
----
+   OOPS|CORE JAVA|Database Connectivity|API Integration|Springboot(basics)|AWS(basics)
+    ---
 
 # 📂 Featured Project
 
